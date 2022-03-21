@@ -12,6 +12,7 @@
 
 <body>
     <h1>Bienvenido a Assist Control</h1>
+    <h2>Por favor introduce tu matricula</h2>
     <div class="container w-25 border p-4 mt-5">
         <form>
             <div class="mb-4">
